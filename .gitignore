@@ -1,1 +1,4 @@
 src/
+myvenv/
+.mypy_cache/
+__pycache__/
